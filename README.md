@@ -1,3 +1,1 @@
-# Fake-Weather-Api-Starter
-
-This is the starter file for part on of my article on medium
+This an API that provides fake weather data to a weather form that will then display in the browser.
